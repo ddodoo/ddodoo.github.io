@@ -1,0 +1,50 @@
+.h1{
+    font-size: large;
+    font-weight: bold;
+}
+
+.h2{
+    font-weight: bold;
+    font-size: larger;
+}
+
+img{
+    border-radius: 50%;
+    border: 5px solid #0077B5;
+}
+
+body{
+    text-align: center;
+    background-color: #f8f8ff;
+    font-size: larger;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.intro{
+    background-color: white;
+    border: 5px solid #0077B5;
+    border-radius: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.content{border: 5px solid #0077B5;
+    border-radius: 35%;
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.content1{border: 5px solid #0077B5;
+    border-radius: 35%;
+    background-color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
